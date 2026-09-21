@@ -97,11 +97,29 @@ export default function BookingScreen() {
     // TODO 9:
     // Remove only the selected hotel from savedHotels.
     // Update state and storage.
+    const updatedHotels = savedHotels.filter(
+      (hotel) => hotel.id !== hotelId
+    );
+
+    try {
+      setSavedHotels(updatedHotels);
+      await saveHotels(updatedHotels);
+      setStorageError("");
+    } catch (error) {
+      setStorageError("Unable to remove your saved hotel.");
+    }
   }
 
   async function clearAllSavedHotels() {
     // TODO 10:
     // Remove only the saved-hotels storage key and set state to [].
+    try {
+      await clearSavedHotels();
+      setSavedHotels([]);
+      setStorageError("");
+    } catch (error) {
+      setStorageError("Unable to clear saved hotels.");
+    }
   }
 
   const isSaved = (hotelId) =>

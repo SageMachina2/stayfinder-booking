@@ -13,16 +13,16 @@
 // }
 
 export const photoSources = [
-  { id: 'houston-city', subject: 'Houston city photo', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
-  { id: 'chicago-city', subject: 'Chicago city photo', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
-  { id: 'new-york-city', subject: 'New York city photo', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
+  { id: 'houston-city', subject: 'Houston city photo', sourceName: 'Unsplash', photographerOrOwner: 'Jeswin Thomas', url: 'https://unsplash.com/photos/a-view-of-a-city-at-night-from-the-top-of-a-building-DdsXgbHVg7M', dateAccessed: '2026-09-21' },
+  { id: 'chicago-city', subject: 'Chicago city photo', sourceName: 'Unsplash', photographerOrOwner: 'Sawyer Bengtson', url: 'https://unsplash.com/photos/cloud-gate-sculpture-in-chicago-tnv84LOjes4', dateAccessed: '2026-09-21' },
+  { id: 'new-york-city', subject: 'New York city photo', sourceName: 'Unsplash', photographerOrOwner: 'Luca Bravo', url: 'https://unsplash.com/photos/panoramic-photography-of-brooklyn-bridge-_QdFx92MO2U', dateAccessed: '2026-09-21' },
 
-  { id: 'houston-hotel-1', subject: 'Houston hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
-  { id: 'houston-hotel-2', subject: 'Houston hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
+  { id: 'houston-hotel-1', subject: 'Houston hotel 1', sourceName: 'Marriott', photographerOrOwner: 'Marriott International, Inc', url: 'https://www.marriott.com/en-us/hotels/houmq-marriott-marquis-houston/photos/', dateAccessed: '2026-09-21' },
+  { id: 'houston-hotel-2', subject: 'Houston hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
 
-  { id: 'chicago-hotel-1', subject: 'Chicago hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
-  { id: 'chicago-hotel-2', subject: 'Chicago hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
+  { id: 'chicago-hotel-1', subject: 'Chicago hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
+  { id: 'chicago-hotel-2', subject: 'Chicago hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
 
-  { id: 'new-york-hotel-1', subject: 'New York hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
-  { id: 'new-york-hotel-2', subject: 'New York hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '' },
+  { id: 'new-york-hotel-1', subject: 'New York hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
+  { id: 'new-york-hotel-2', subject: 'New York hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
 ];
