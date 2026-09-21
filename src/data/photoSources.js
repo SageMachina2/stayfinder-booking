@@ -20,8 +20,8 @@ export const photoSources = [
   { id: 'houston-hotel-1', subject: 'Houston hotel 1', sourceName: 'Marriott', photographerOrOwner: 'Marriott International, Inc', url: 'https://www.marriott.com/en-us/hotels/houmq-marriott-marquis-houston/photos/', dateAccessed: '2026-09-21' },
   { id: 'houston-hotel-2', subject: 'Houston hotel 2', sourceName: 'Unsplash', photographerOrOwner: 'Jason Dent', url: 'https://unsplash.com/photos/sam-houston-hotel-NuUim48QSt8', dateAccessed: '2026-09-21' },
 
-  { id: 'chicago-hotel-1', subject: 'Chicago hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
-  { id: 'chicago-hotel-2', subject: 'Chicago hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
+  { id: 'chicago-hotel-1', subject: 'Chicago hotel 1', sourceName: 'Hilton', photographerOrOwner: 'N/A', url: 'https://www.hilton.com/en/hotels/chigvgv-hilton-grand-vacations-club-chicago-magnificent-mile/gallery/', dateAccessed: '2026-09-21' },
+  { id: 'chicago-hotel-2', subject: 'Chicago hotel 2', sourceName: 'Expedia', photographerOrOwner: 'N/A', url: 'https://www.expedia.com/Chicago-Hotels-Four-Seasons-Hotel-Chicago.h25748.Hotel-Information?pwaThumbnailDialog=thumbnail-gallery&pwaDialogNested=media-gallery', dateAccessed: '2026-09-21' },
 
   { id: 'new-york-hotel-1', subject: 'New York hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
   { id: 'new-york-hotel-2', subject: 'New York hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
