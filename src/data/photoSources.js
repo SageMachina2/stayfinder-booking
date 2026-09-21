@@ -18,7 +18,7 @@ export const photoSources = [
   { id: 'new-york-city', subject: 'New York city photo', sourceName: 'Unsplash', photographerOrOwner: 'Luca Bravo', url: 'https://unsplash.com/photos/panoramic-photography-of-brooklyn-bridge-_QdFx92MO2U', dateAccessed: '2026-09-21' },
 
   { id: 'houston-hotel-1', subject: 'Houston hotel 1', sourceName: 'Marriott', photographerOrOwner: 'Marriott International, Inc', url: 'https://www.marriott.com/en-us/hotels/houmq-marriott-marquis-houston/photos/', dateAccessed: '2026-09-21' },
-  { id: 'houston-hotel-2', subject: 'Houston hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
+  { id: 'houston-hotel-2', subject: 'Houston hotel 2', sourceName: 'Unsplash', photographerOrOwner: 'Jason Dent', url: 'https://unsplash.com/photos/sam-houston-hotel-NuUim48QSt8', dateAccessed: '2026-09-21' },
 
   { id: 'chicago-hotel-1', subject: 'Chicago hotel 1', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
   { id: 'chicago-hotel-2', subject: 'Chicago hotel 2', sourceName: '', photographerOrOwner: '', url: '', dateAccessed: '2026-09-21' },
