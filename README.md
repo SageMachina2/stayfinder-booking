@@ -4,6 +4,8 @@ This is a continuing project. **Do not delete this repository after Module 5.** 
 
 The starter already contains the production-style shell. Your work is persistence + accurate real-world imagery.
 
+yes
+
 ## Read → Type/Paste → Save → Test → Commit
 
 ### Checkpoint 1 — Run
